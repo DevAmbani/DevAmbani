@@ -51,12 +51,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DevAmbani/DevAmbani/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Yes, my name is Dev. Yes, I write code. Coincidence? I think not.</p>
 
 ###
