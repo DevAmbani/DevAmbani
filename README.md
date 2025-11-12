@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dev — turning coffee into code, one push at a time.</h2>
+<h1 align="center">Hi, I'm Dev. Turning coffee into code, one push at a time.</h2>
 
 
 ###
