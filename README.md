@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Dev — turning coffee into code, one push at a time.</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevAmbani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
 
