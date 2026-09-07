@@ -4,6 +4,24 @@
 ###
 
 <div align="center">
+  <a href="https://www.devambani.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-devambani.com-ffb000?style=for-the-badge&logo=googlechrome&logoColor=111111" height="42" alt="Visit Dev's portfolio" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tobiasmeyhoefer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlobnZpNHB2MHN2ZDUxcXE4bDd1MnNnemkxNGh6ejYyMmM5YWI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
